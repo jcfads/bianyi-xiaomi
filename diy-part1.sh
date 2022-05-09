@@ -14,6 +14,6 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
  Add a feed source
-git clone https://github.com/kenzok8/openwrt-package package/1
+git clone https://github.com/kenzok8/openwrt-packages package/1
 git clone https://github.com/xiaorouji/openwrt-passwall package/2
 git clone https://github.com/destan19/OpenAppFilter package/3
